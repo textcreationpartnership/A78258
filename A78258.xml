@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present condition of Dublin in Ireland; with the manner of the siege, and how it is straitened, by the Marquesse of Ormond, L. Inchequin, &amp;c. / Represented in two letters, from a Colonell in Dublin, to his brother a merchant in London. Dated at Dublin, June 22. 1649.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78258</idno>
+            <idno type="STC">Wing C111</idno>
+            <idno type="STC">Thomason E562_11</idno>
+            <idno type="STC">ESTC R206079</idno>
+            <idno type="EEBO-CITATION">99865267</idno>
+            <idno type="PROQUEST">99865267</idno>
+            <idno type="VID">165232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165232)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present condition of Dublin in Ireland; with the manner of the siege, and how it is straitened, by the Marquesse of Ormond, L. Inchequin, &amp;c. / Represented in two letters, from a Colonell in Dublin, to his brother a merchant in London. Dated at Dublin, June 22. 1649.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Crips, and Lodowick Lloyd,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letters are signed: R.C.</note>
+                  <note>Annotation on Thomason copy: "June 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dublin (Ireland) --  History --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165232:1" rendition="simple:additions"/>
+            <p>The preſent condition of DUBLIN IN IRELAND;</p>
+            <p>WITH The manner of the Siege, and how it is ſtraitened, By the <hi>Marqueſſe of Ormond, L. Jnchequin,</hi> &amp;c.</p>
+            <p>Repreſented in two LETTERS, FROM A Colonell in <hi>Dublin,</hi> to his Brother a Merchant in LONDON.</p>
+            <p>Dated at <hi>Dublin, June</hi> 22. 1649.</p>
+            <p>
+               <add>June 30</add> 
+               <hi>LONDON,</hi> Printed for <hi>Henry Crips,</hi> and <hi>Lodowick Lloyd.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165232:2"/>
+            <pb n="1" facs="tcp:165232:2"/>
+            <opener>
+               <dateline>Dublin <date>June 22. 1649.</date>
+               </dateline>
+               <lb/>
+               <salute>Loving Brother,</salute>
+            </opener>
+            <p>I Wrote to you at large by the laſt Poſt of the 19. and 20. ſince which our ſiege continues very cloſe; their camp is within a mile and half of Dublin; they begun to appear with their Horſe on Wedneneſday, and came within a mile of our works, and ſending out a forlorn hope of about 40. horſe came within half a mile, where about 30. of ours anſwered their charge, and ſhot Lievtenant Col. <hi>Dungans</hi> horſe under him, and ſo got him Priſoner; and Major <hi>Dun<g ref="char:EOLhyphen"/>gan</hi> his brother (ſons to Sir <hi>Iohn Dungan</hi>) was deadly woun<g ref="char:EOLhyphen"/>ded, and we hear he is ſince dead, for being carried to the Phenix where their horſe ſtood, he was ſpeechleſſe when he came thither; our men brought off four of their horſe, and bleſſed be God we had but one man wounded, none ſlain. The Marqueſſe of <hi>Ormond,</hi> and Lord of <hi>Inchequin</hi> are reſolved to have Dublin before they depart, but dare not with what for<g ref="char:EOLhyphen"/>ces they have to ſtorm it, but we hear they daily expect the coming up of the Marqueſſe <hi>Clenrikard,</hi> Lord <hi>Taffe,</hi> Lord <hi>Dillon,</hi> Viſcount <hi>Coſtelagh,</hi> and <hi>Oneale</hi> with their Forces, to come up ſuddainly; and then we muſt expect a ſharp ſtorm. Their tents are pitcht on this ſide Fingles, their Horſe and Foot lie all in our fight; our Generall is labouring hard to fortifie againſt them, and the Seamen from the Ships are come to help us; Col. <hi>Monk</hi> is abroad with 800. of our horſe to ſecure Tredagh, Trym, and Athbey, and after they
+<pb n="2" facs="tcp:165232:3"/>
+are ſecured, we expect ſome ſervice to be done by them againſt the enemy; the papiſts Iriſh men, as well Cityzens as the Army are put out of the City; we are (bleſſed be God) in ſome reaſonable poſſibility of the more ſafety thereby; and have hard duty to attend the line daily, but great will, vi<g ref="char:EOLhyphen"/>gour and readineſſe is in all men to perform the ſervice; we have about 7000. foot with the Inhabitants fighting men, and about 500. horſe to face the enemy; the rogues are too well accommodated for proviſions, they eat and drink up our ruines; but we hope to ſee theirs in the end, if our Friends in England will make haſt to releeve us; our proviſions con<g ref="char:EOLhyphen"/>ſume very faſt, and every thing is exceſſive deer, having now neither fiſh nor fleſh to come to our Markets. The Poſt ready to depart, I muſt crave your prayers to God for us, and you ſhall have ours, ſo I reſt, and remain,</p>
+            <closer>
+               <signed>Your loving Brother, <hi>R. C.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Loving Brother,</salute>
+            </opener>
+            <p>MY laſt was of the 13. currant, the day following went forth Col. <hi>Jones,</hi> our Generall, with our Army, Col. <hi>Monk</hi> commanding the Foot, which were be<g ref="char:EOLhyphen"/>tween twenty five and thirty hundred, and about twelve hundred Horſe, with four pieces of Ordnance; the Army advanc'd againſt the enemy as far as Johnſtowne (within a a mile or two of the Naſe) where they kept their Rendez<g ref="char:EOLhyphen"/>vouz, ſending forth Scouts of Horſe to diſcover the ene<g ref="char:EOLhyphen"/>my,
+<pb n="3" facs="tcp:165232:3"/>
+and not expecting them to be of that ſtrength as after<g ref="char:EOLhyphen"/>ward they found them to be, ſought to paſſe over the river Liffy, where the enemie made good all the paſſes againſt them, and pitch'd there their Tents, as if they ſtood onely upon a defenſive poſture; but by our Scouts on Sabboth day at night, ſome returned, and ſeeing the Tents in the place, re<g ref="char:EOLhyphen"/>ported that the enemy was ſtill there, but by other Scouts they were diſcovered, both horſe and foot to be marching o<g ref="char:EOLhyphen"/>ver the Mountaines of Wicklow, expecting to fall in between our Army and Dublin, whereupon our Generall made his re<g ref="char:EOLhyphen"/>treat homeward, and came within three or four miles of this place, and there remained all yeſterday: The Scouts laſt night diſcovering again the advance of the enemy hitherward, our Generall (with all his horſe and foot) at one of the clock this morning came home (bleſſed be God) in ſafety: It argued a great vigilancy in him, and a provident care over this place, not to ingage our Army to put the whole Kingdome in dan<g ref="char:EOLhyphen"/>ger; for if he had (as it might have pleaſed God to give him the victory) ingaged againſt the enemy upon ſuch diſadvan<g ref="char:EOLhyphen"/>tage, he could not (without great hazzard) be able to proſe<g ref="char:EOLhyphen"/>cute the victory: beſides, we had on Saturday laſt newes, that the Scots were coming up for our reliefe, but ſince we have a far greater doubt of them then before; our next buſineſſe (if the enemy be not already too ſtrong in thoſe parts) is to ſtrengthen the Garriſons of Trym, Athbay, and Tredath, who are in great danger, and yet we ſhall be much weakned by parting with our men, and ſhall not be able from time to time to relieve them, the enemy being fallen ſo far into our Quarters, who are already within four or five miles of this place. We have loſt Kildare, but it coſt the enemy very deere; for after three or four deſperate aſſaults made by them on the breaches made by their Cannon, having loſt many of
+<pb n="4" facs="tcp:165232:4"/>
+their men, they ſent for a party, and obſerving the undaun<g ref="char:EOLhyphen"/>ted reſolution of Lievtenant-Col. <hi>Huteſon,</hi> and Capt. <hi>Dixon,</hi> who commanded the men there, and of moſt of the men un<g ref="char:EOLhyphen"/>der them, although many of their men would not fight at all, and are ſince gone to the enemy, that they gave our men quarter in two daies to carry away what they had, where was corne and meal that they could not bring away, but ſpoiled what they could thereof. Balleſoman is beſieged, and it muſt be loſt, becauſe we cannot come to relieve them, nor ſend to them, nor hear in what condition they are. We heare, that <hi>Owen Oneale,</hi> with his Forces, is joyned with them of Kil<g ref="char:EOLhyphen"/>kenny againſt us, but we have no certainty thereof: But we know, that the Forces under the Marqueſſe of <hi>Ormond</hi> with<g ref="char:EOLhyphen"/>out them, are about 10000. Foot, and between 2500. and 3000. Horſe, moſt of them very excellent horſe; we looke for a ſiege, and are pulling down all the houſes without our Works neer unto them, and are deſtroying any thing that may releieve the enemy. We are in a very ſad condition; for all the Contribution out of the Countrey, which paid our Horſe, is now loſt, and we have not wherewithall to pay them; we have neither Hay nor Oats to keep our Horſe nor Oxen in Town, nor for our Cattell; we muſt expect no more proviſions out of the Countrey for our ſelves, for the enemy is now poſſeſſed of what ſhould relieve us; we muſt expect that they will deſtroy all the Corne in our Quarters, and will be able to preſerve and gaine all that is in their own, and will eat up all the graſſe in our Quarters, and preſerve their owne, then you may conſider what will become of our horſe the next winter: they are in a proſperous condition at preſent, and like to doe what they pleaſe, if aid come not ſundenly, and money to pay them, and thoſe that are already here, and more proviſions for them all; for Wheat is here at five
+<pb n="5" facs="tcp:165232:4"/>
+pound ten ſhillings, Rie at four pound ten ſhillings the quar<g ref="char:EOLhyphen"/>ter, little to ſell, and little money to buy it: Our Men of War are come from Bewmorris, and divers ſhips from Che<g ref="char:EOLhyphen"/>ſter, and no men nor money; it is impoſſible (in mans judge<g ref="char:EOLhyphen"/>ment) for us to hold out till aid comes from England, for as yet we heare not of any ready at water-ſide to come, and when all the ſhipping are come hither, it is like we ſhall have them to come thither, and when our ſhipping returns, I pray God they may not mutiny againe, and refuſe to come for want of means; for if we have not a prevalent party, well<g ref="char:EOLhyphen"/>wiſhers to us, and to our Cauſe, that may over-ſway our ſe<g ref="char:EOLhyphen"/>cret enemies that are amongſt them, that would cauſe delayes till we are deſtroyed, we ſhall be loſt indeed, and much miſe<g ref="char:EOLhyphen"/>ry will thereby fall on our Kingdome of England, upon whoſe account ſhall ſtand all the bloud that hath been mali<g ref="char:EOLhyphen"/>ciouſly ſhed in this Kingdome, of the ancient, the honoura<g ref="char:EOLhyphen"/>ble Miniſters of Gods Word, the Widdowes, the Father<g ref="char:EOLhyphen"/>leſſe, and the Infants that have been deſtroyed. Beſides the want of money, the dearth of all proviſions, Cheeſe it ſelfe being at nine pence the pound, will undoe us, and which is far more dangerous, men will not ingage where is no mans to relieve themſelves, their wives and children, but will ſeek to go where the beſt means is to be had: your Diurnalls are not true, in that there ſhould be diſcord amongſt our ene<g ref="char:EOLhyphen"/>mies: my Lord of <hi>Inchiquins</hi> forces are now joyned with the Iriſh as one man, and no ſuch thing as the coming away of any more of my Lord of <hi>Inchiquins</hi> horſe to us; beſides the firſt ſeven that came, as was reported amongſt us, but are all ſet on miſchief to deſtroy us.</p>
+            <p>Our news by this Poſt makes mention of a good agreement in England, (whereat we greatly rejoyce,) and it is a wonder
+<pb n="6" facs="tcp:165232:5"/>
+to me they cannot ſooner agree to releeve us; the danger we are now in with him from time to time reported amongſt you theſe three monthes, and what hath been done for us; and ſome of the Jeſuiticall faction to hinder releefe coming to us, (not only from England, but from France, and the low Coun<g ref="char:EOLhyphen"/>treys) have raiſed reports from time to time that Dublin was taken, or delivered up unto the enemy, and that it was too late to ſend relief hither, and as faſt as we could write to the contrary, have they revived this report; I would they might (by their words) be taken notice what men they are. But now I may write to you, truly I feare it will ſhortly come to paſſe; I am ſorry that our Friends are no more ſenſible of our pover<g ref="char:EOLhyphen"/>ty, and miſerable condition (if it were only the weekly loane, it were enough to conſume us, where a penny is not to be gotten) to pay 20. 30. and 40. l. a man, and ſome 4. 5. l. a week, and many that have lent great ſums, are now ſtar<g ref="char:EOLhyphen"/>ving for want of bread, who report amongſt you, that we are here in a very good condition; whereas moreover they know, we have not men enough to defend our quarters, nor money to pay thoſe we have. Good Brother farewell, I knew not whether I ſhall ſee you again, or that I may again write unto you, for my reſolution is according to my power (as the Lord ſhall give me ſtrength) to be amongſt my company to defend this place, yet I would not have you to forget me, nor to neglect what I have deſired at your hand; I hope the Lord will defend this place, and that every one that puts his truſt in him ſhall be delivered, to whoſe bleſſed protection I commend you, and reſt ever,</p>
+            <closer>
+               <signed>R. C.</signed>
+            </closer>
+         </div>
+         <trailer>FINISr</trailer>
+      </body>
+   </text>
+</TEI>
